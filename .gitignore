@@ -1,0 +1,8 @@
+.researchgraph/index.sqlite
+__pycache__/
+*.egg-info/
+.hypothesis/
+.venv/
+.pytest_cache/
+.bizcoder/
+*.pyc
